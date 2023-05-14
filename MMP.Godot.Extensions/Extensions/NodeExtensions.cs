@@ -1,8 +1,9 @@
+using Godot;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Godot.Common.Extensions
+namespace MMP.Godot.Extensions
 {
     /// <summary>
     /// Extension methods for Godot Node objects.

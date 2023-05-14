@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Godot;
 
-namespace Godot.Common.Helper
+namespace MMP.Godot.Extensions.Helper
 {
     public static class TimeHelper
     {

@@ -1,4 +1,6 @@
-﻿namespace Godot.Common.Extensions
+﻿using Godot;
+
+namespace MMP.Godot.Extensions
 {
     public static class Vector2Extensions
     {

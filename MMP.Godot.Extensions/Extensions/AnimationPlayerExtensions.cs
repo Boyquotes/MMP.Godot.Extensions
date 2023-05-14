@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Godot;
+using System;
 
-namespace Godot.Common.Extensions
+namespace MMP.Godot.Extensions
 {
     public static class AnimationPlayerExtensions
     {

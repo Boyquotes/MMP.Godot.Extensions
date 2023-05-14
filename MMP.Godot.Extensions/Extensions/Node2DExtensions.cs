@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Godot;
 
-namespace Godot.Common.Extensions
+namespace MMP.Godot.Extensions
 {
     public static class Node2DExtensions
     {

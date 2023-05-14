@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Godot.Common.Extensions
+namespace MMP.Godot.Extensions
 {
     public static class TypeExtensions
     {
